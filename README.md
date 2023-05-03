@@ -1,9 +1,6 @@
 👋 Hi, I’m @maverick-escape-ordinary-coding
 
-Being an inquisitive philomath, interested to devise extremely targeted techniques for assimilating, scrutinising, and coalescing problems with data.
-
-- Amalgamating my latest research on Data Science and Software Engineering
-- To share knowledge and experience of escaping ordinary coding from the start.
+Being an inquisitive philomath, I amalgamate latest research on Data Science, Prompt Engineering and Software Engineering
 
 <!---
 sanjays-coding01/sanjays-coding01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
